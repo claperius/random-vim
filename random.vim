@@ -1,6 +1,6 @@
 " Vim script file
 " Maintainer: Mikolaj Sitarz <sitarz@gmail.com>
-" License: This file is distributed under Vim license
+" License: This file is distributed under Apache 2.0 license
 "
 " Implementation of congruential pseudo-random numbers generator
 
