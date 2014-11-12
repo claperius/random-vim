@@ -1,4 +1,4 @@
 random-vim
 ==========
 
-Implementation of Park-Miller  pseudo-random number generator as vim script.
+Implementation of Lehmer pseudo-random number generator as vim script.
