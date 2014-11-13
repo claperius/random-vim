@@ -19,7 +19,7 @@ Installation
 ### With [NeoBundle](https://github.com/Shougo/neobundle.vim)
 
 ```viml
-NeoBundle 'trusktr/seti.vim'
+NeoBundle 'Claperius/random-vim'
 ```
 
 ### With [VAM](https://github.com/MarcWeber/vim-addon-manager)
@@ -31,29 +31,31 @@ call vam#ActivateAddons(['random-vim'])
 ### With [Vundle](https://github.com/gmarik/Vundle.vim)
 
 ```viml
-Plugin 'trusktr/seti.vim'
+Plugin 'Claperius/random-vim'
 ```
 
 ### With [pathogen](https://github.com/tpope/vim-pathogen)
 
 ```sh
-git clone https://github.com/trusktr/seti.vim ~/.vim/bundle/seti.vim
+cd ~/.vim/bundle
+git clone https://github.com/Claperius/random-vim
 ```
 
 ### With [Vimana](https://github.com/c9s/Vimana)
 
 ```sh
-vimana install gh:trusktr/seti.vim
+vimana install gh:Claperius/random-vim
 ```
 
 ### With [Plug](https://github.com/junegunn/vim-plug)
 
 ```viml
-Plug 'trusktr/seti.vim'
+Plug 'Claperius/random-vim'
 ```
 
 ### With [unbundle](https://github.com/sunaku/vim-unbundle)
 
-```viml
-Plug 'trusktr/seti.vim'
+```sh
+cd ~/.vim/bundle
+git clone https://github.com/Claperius/random-vim
 ```
