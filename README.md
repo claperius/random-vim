@@ -59,3 +59,7 @@ Plug 'Claperius/random-vim'
 cd ~/.vim/bundle
 git clone https://github.com/Claperius/random-vim
 ```
+
+### With others
+
+See more plugin managers [here](http://vim-wiki.mawercer.de/wiki/topic/vim%20plugin%20managment.html).
