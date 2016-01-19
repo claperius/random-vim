@@ -19,7 +19,7 @@ Installation
 ### With [NeoBundle](https://github.com/Shougo/neobundle.vim)
 
 ```viml
-NeoBundle 'Claperius/random-vim'
+NeoBundle 'claperius/random-vim'
 ```
 
 ### With [VAM](https://github.com/MarcWeber/vim-addon-manager)
@@ -31,33 +31,33 @@ call vam#ActivateAddons(['random-vim'])
 ### With [Vundle](https://github.com/gmarik/Vundle.vim)
 
 ```viml
-Plugin 'Claperius/random-vim'
+Plugin 'claperius/random-vim'
 ```
 
 ### With [pathogen](https://github.com/tpope/vim-pathogen)
 
 ```sh
 cd ~/.vim/bundle
-git clone https://github.com/Claperius/random-vim
+git clone https://github.com/claperius/random-vim
 ```
 
 ### With [Vimana](https://github.com/c9s/Vimana)
 
 ```sh
-vimana install gh:Claperius/random-vim
+vimana install gh:claperius/random-vim
 ```
 
 ### With [Plug](https://github.com/junegunn/vim-plug)
 
 ```viml
-Plug 'Claperius/random-vim'
+Plug 'claperius/random-vim'
 ```
 
 ### With [unbundle](https://github.com/sunaku/vim-unbundle)
 
 ```sh
 cd ~/.vim/bundle
-git clone https://github.com/Claperius/random-vim
+git clone https://github.com/claperius/random-vim
 ```
 
 ### With others
