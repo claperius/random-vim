@@ -43,11 +43,7 @@ endfunction
  
 " s:urand(nrange) - return random number between 0 and nrange "{{{
 function! s:urand(nrange)
-    let rnd = s:abs(s:srand())
-    while rnd > a:nrange
-        let rnd = s:abs(s:srand())
-    endwhile
-    return rnd
+    return s:abs(s:srand()) % (a:nrange + 1)
 endfunction
 "}}}
 
